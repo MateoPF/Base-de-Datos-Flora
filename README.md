@@ -14,7 +14,7 @@ La Base de Datos Flora es un proyecto de base de datos relacional que busca cata
 ### v0.1.0 - Diseño Conceptual y Estructura Inicial (En Desarrollo)
  Definición del alcance y objetivos del proyecto
  Investigación y análisis de fuentes bibliográficas especializadas
- Diseño conceptual de la estructura taxonómica
+ Diseño conceptual de la estructura taxonómica: https://www.mermaidchart.com/app/projects/7abe1916-23f4-4a3a-9037-6ae3ae457c61/diagrams/4520c56f-3f86-45c8-b920-d3da03797a16/version/v0.1/edit
  Análisis de requerimientos funcionales y no funcionales
  Selección de las primeras 100 especies peruanas representativas
 
