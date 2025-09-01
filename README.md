@@ -1,4 +1,4 @@
-# Base-de-Datos-Flora
+# Base de Datos Flora
 ## Descripción del Proyecto
 La Base de Datos Flora es un proyecto de base de datos relacional que busca catalogar y sistematizar la información taxonómica de la flora mundial, iniciando con un enfoque específico en la flora peruana. Este proyecto representa un esfuerzo sistemático para crear una herramienta integral de consulta taxonómica que evolucione desde una base sólida de especies peruanas hacia una cobertura global.
 
